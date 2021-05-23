@@ -1,0 +1,23 @@
+- degree: "Ph.D. in Machine learning"
+  institution: University of Groningen
+  location: "Groningen. Netherlands"
+  advisor: Peter van Ooijen
+  years: "Dec. 2020 —"
+  years-extra: "Aug. 2015"
+  thesis: "Distibuted deep learning on medical image analysis"
+  institution-url: https://www.rug.nl/
+
+- degree: "M.S. in Electrical and Computer Engineering"
+  institution: University of Tehran
+  location: "Tehran, Iran"
+  years: May 2020
+  institution-url: https://www.ut.ac.ir/
+  description:
+    - "GPA: 4.00/4.00"
+
+- degree: "B.S. in Electrical Engineering"
+  years: "May 2018 —"
+  years-extra: "Aug. 2013"
+  institution: Amirkabir University of Technology
+  location: "Tehran, Iran"
+
